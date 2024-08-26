@@ -1,4 +1,4 @@
-## Hi, I'm Seoyeon 
+## 👋 Hi, I'm Seoyeon 
 
 - 👩‍💻 Aspiring software engineer 
 - 🏫 Pursuit of a Bachelor’s Degree in Computer Engineering
