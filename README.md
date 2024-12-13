@@ -4,7 +4,8 @@
     <p>🐈‍⬛ This is Seoyeon's Github</p>
     <p>👩‍💻 Aspiring software engineer </p>
     <p>🏫 Pursuit of a Bachelor’s Degree in Computer Engineering</p>
-    <p>💻 Currently studying in Backend Developing and Machine Learning</p>
+    <p>💻 Currently studying in Backend Development and Machine Learning</p>
+    <p>📃 [Resume](./SeoyeonPark_resume.pdf)</p>
 </div>
 
 
