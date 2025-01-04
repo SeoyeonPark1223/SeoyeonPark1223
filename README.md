@@ -5,7 +5,6 @@
     <p>👩‍💻 Aspiring software engineer </p>
     <p>🏫 Pursuit of a Bachelor’s Degree in Computer Engineering</p>
     <p>💻 Currently studying in Backend Development and Machine Learning</p>
-    <p>📃 <a href="./SeoyeonPark_resume.pdf" target="_blank" download>Resume</a></p>
 </div>
 
 
