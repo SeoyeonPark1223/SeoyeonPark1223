@@ -2,7 +2,7 @@
 
 <div>
     <p>🐈‍⬛ This is Seoyeon's Github</p>
-    <p>👩‍💻 Aspiring software engineer </p>
+    <p>👩‍💻 Backend Engineer </p>
     <p>🏫 Pursuit of a Bachelor’s Degree in Computer Engineering</p>
     <p>💻 Currently studying in Backend Development and AI Engineering</p>
 </div>
