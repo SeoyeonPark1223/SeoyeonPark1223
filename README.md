@@ -5,5 +5,5 @@
     <p>👩‍💻 AI Software Engineer</p>
     <p>🏫 B.S. in Computer Engineering (Mar 21 - Aug 26)</p>
     <p>💻 Focused on AI/ML Engineering & Backend Development</p>
-    <p>🐋 Currently working as a Software Engineer Intern at Nota AI</p>
+    <p>🐋 Former AI Software Engineer Intern at Nota AI</p>
 </div>
